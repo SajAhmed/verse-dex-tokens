@@ -10,3 +10,4 @@
 - [ ] Filled out token details above
 - [ ] Added token info to tokens.json
 - [ ] Added token icon to /icons
+- [ ] Added pricing 
